@@ -1,77 +1,56 @@
-## Your Name
+## Keldra Smith-Junkere 
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Having worked successfully in health communications and scientific research for 5 years, I decided to embark on a journey to turn my passion for coding into a full-time career. 
 
-## Projects
+In 2021, I was awarded a scholarship to Makers Academy, where I undertook a 12-week intensive bootcamp to hone my skills in software development. 
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+I am now in pursuit of a role within a company that aligns with my core values, as well as an enriching environment to further support me as a Full Stack Developer. 
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Imperial College London, Women's Health Research Centre** (2018 - 2021)  
+_Research Technician_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+Working across research studies that focus on Women's Health, primarily reproductive health, including Recurrent Miscarriage and Pre-term birth. 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+- Duties included:
+ 
+  - Research data management across projects. 
+  - Patient focused participant recruitment for research. 
+  - The procurement and processing of biological samples.
 
-- Any experience relevent to software development
+**Invicro London** (2017 to 2018)  
+_Junior Bioanalyst_
+
+Executing biochemical assays to determine the fate of PET radiotracers in biological samples.
+
+- Duties included:
+
+  - Developing standard operating procedures. 
+  - Method development for new analytical processes. 
+  - Data analysis for analytical method development.  
+
+**Publicis Health, Real Science Communications** (2016 - 2017)  
+_Junior Account Executive_
+
+Supporting the development of brand marketing strategies, maintaining client relationships, and providing financial support across accounts.
+
+- Duties included: 
+
+  - The management of client portfolios.
+  - Strategic and tactical planning across projects.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+**Makers Academy** (2021)
 
-#### Your University / College (start_date to end_date)
+**The University of Northampton** (2012 - 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc (Hons) Human Bioscience with Health Studies (2:1)
 
-#### Any other qualifications
+## Hobbies and Interests 
 
-That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
